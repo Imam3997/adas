@@ -1,0 +1,12 @@
+D:\File Kuliah\Pemrograman Terstruktur\TugasBesar\TugasBesar\bin\Debug\TugasBesar.exe.config
+D:\File Kuliah\Pemrograman Terstruktur\TugasBesar\TugasBesar\bin\Debug\TugasBesar.exe
+D:\File Kuliah\Pemrograman Terstruktur\TugasBesar\TugasBesar\bin\Debug\TugasBesar.pdb
+D:\File Kuliah\Pemrograman Terstruktur\TugasBesar\TugasBesar\obj\Debug\TugasBesar.Form1.resources
+D:\File Kuliah\Pemrograman Terstruktur\TugasBesar\TugasBesar\obj\Debug\TugasBesar.Form2.resources
+D:\File Kuliah\Pemrograman Terstruktur\TugasBesar\TugasBesar\obj\Debug\TugasBesar.Form3.resources
+D:\File Kuliah\Pemrograman Terstruktur\TugasBesar\TugasBesar\obj\Debug\TugasBesar.Form4.resources
+D:\File Kuliah\Pemrograman Terstruktur\TugasBesar\TugasBesar\obj\Debug\TugasBesar.Properties.Resources.resources
+D:\File Kuliah\Pemrograman Terstruktur\TugasBesar\TugasBesar\obj\Debug\TugasBesar.csproj.GenerateResource.Cache
+D:\File Kuliah\Pemrograman Terstruktur\TugasBesar\TugasBesar\obj\Debug\TugasBesar.exe
+D:\File Kuliah\Pemrograman Terstruktur\TugasBesar\TugasBesar\obj\Debug\TugasBesar.pdb
+D:\File Kuliah\Pemrograman Terstruktur\TugasBesar\TugasBesar\obj\Debug\TugasBesar.csprojResolveAssemblyReference.cache
